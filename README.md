@@ -26,7 +26,7 @@ The Arena AI uses a feature to hide Claude Opus models from the model selector. 
 
 ## Install
 
-1. [**Download the ZIP**](/opus-restorer) or click **Code → Download ZIP** above
+1. [**Download the ZIP**](/opus-restorer.zip) or click **Code → Download ZIP** above
 
 2. Extract the folder somewhere on your computer
 
