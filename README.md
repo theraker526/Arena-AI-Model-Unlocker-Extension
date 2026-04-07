@@ -4,7 +4,7 @@ This is a browser extension that unlocks models on Arena AI and Canary Arena. It
 
 ## What it does
 
-The Arena AI uses a feature to hide Claude Opus models from the model selector. This extension stops that feature before the page loads and brings back every Opus model. It also unlocks over 150 hidden battle and test models.
+The Arena AI website uses a feature to hide Claude Opus models from the model selector. This extension stops that feature before the page loads and brings back every Opus model. It also unlocks over 150 hidden battle and test models.
 
 ### Supported sites
 
